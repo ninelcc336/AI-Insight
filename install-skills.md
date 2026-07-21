@@ -2,10 +2,15 @@
 0. skill-creator
 1. find-skills 
 2. agent-browser
-3. brainstorming(superpowers)
-4. ui-ux-pro-max
-5. frontend-design
-6. writing-plans(superpowers)
+3. brainstorming(superpowers) - removed
+4. writing-plans(superpowers) - removed
+5. ui-ux-pro-max
+6. frontend-design
+7. grilling(matt pocock/skills)
+8. grill-me(matt pocock/skills)
+9. handoff(matt pocock/skills)
+10. research(matt pocock/skills)
+11. teach(matt pocock/skills)
 
 
 ### UI设计
